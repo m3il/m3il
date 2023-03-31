@@ -1,6 +1,6 @@
 The two year gap is me trying to learn to use Github :)
 
-Ccurrently learning: Java, Python, HTML & related languages
+Currently learning: Java, Python, HTML & related languages
 
 
 
