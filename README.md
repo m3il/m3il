@@ -2,6 +2,8 @@ The two year gap is me trying to learn to use Github :)
 
 Currently learning: Java, Python, HTML & related languages
 
+Full-time Student, changes will be small + infrequent
+
 
 
 <!---
